@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
  *
  * @author ASUS
  */
-public class Enregistrement extends javax.swing.JFrame {
+public class InscrUe extends javax.swing.JFrame {
 
     /**
      * Creates new form Enregistrement
@@ -33,7 +33,7 @@ public class Enregistrement extends javax.swing.JFrame {
 
     ResultSet rs;
     
-    public Enregistrement() {
+    public InscrUe() {
         initComponents();
         jButton1.setBackground(Color.DARK_GRAY);
         jButton2.setBackground(Color.DARK_GRAY);
@@ -56,9 +56,9 @@ public class Enregistrement extends javax.swing.JFrame {
                 
             }
         } catch (ClassNotFoundException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         }
             
     }
@@ -80,9 +80,9 @@ public class Enregistrement extends javax.swing.JFrame {
                 
             }
         } catch (ClassNotFoundException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         }
             
     }
@@ -376,9 +376,9 @@ public class Enregistrement extends javax.swing.JFrame {
 
 
         } catch (ClassNotFoundException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
-            Logger.getLogger(Enregistrement.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(InscrUe.class.getName()).log(Level.SEVERE, null, ex);
         }
         
         
@@ -416,20 +416,21 @@ public class Enregistrement extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Enregistrement.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(InscrUe.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Enregistrement.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(InscrUe.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Enregistrement.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(InscrUe.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Enregistrement.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(InscrUe.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Enregistrement().setVisible(true);
+                new InscrUe().setVisible(true);
             }
         });
     }
