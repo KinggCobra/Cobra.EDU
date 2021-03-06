@@ -1,4 +1,4 @@
-#  ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8939caba-2c60-4aeb-bb20-d61b0458b178/d8w4iw2-5fb1b71f-3c66-4d45-a3fb-44bab70cafca.jpg)  Mafia.EDU : Suivi des étudiants dans une formation à la carte. 
+#  ![](https://pngimg.com/uploads/cobra/cobra_PNG21.png)  Mafia.EDU : Suivi des étudiants dans une formation à la carte. 
 L3 Miage, projet de programmation
 
 
