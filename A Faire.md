@@ -16,3 +16,4 @@ Prioriser les UE avec prérequis pour le futur
 (taches critiquesé) mettre en couleur 
 que critique ou non critique  
 
+- Documentation installation COBRA.EDU
