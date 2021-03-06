@@ -32,8 +32,8 @@ les taches critique ou non critique
 
 
 OBJECTIFS:
-1 - inscrire etudiants aux enseignements
-2 -  voir où ils en sont de leur parcours (semestre et UE suivi)
-3 -  saisir les enseignement validés.
+ - inscrire etudiants aux enseignements
+ -  voir où ils en sont de leur parcours (semestre et UE suivi)
+-  saisir les enseignement validés.
 
 NB : nomF = nom de la mention
