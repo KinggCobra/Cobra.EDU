@@ -29,3 +29,11 @@ d'UE nécessaire (pour les semestres a venir les UE nécessaires)
 les taches critique ou non critique  
 
 - Documentation installation COBRA.EDU
+
+
+OBJECTIFS:
+- inscrire etudiants aux enseignements
+-  voir où ils en sont de leur parcours (semestre et UE suivi)
+-  saisir les enseignement validés.
+
+NB : nomF = nom de la mention
