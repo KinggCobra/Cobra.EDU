@@ -1,4 +1,4 @@
-#  ![](https://images.vexels.com/media/users/3/205763/isolated/lists/9a29b835f3e8d8817e346aab90886421-india-snake-charmer.png)  Mafia.EDU : Suivi des étudiants dans une formation à la carte. 
+#  ![](https://images.vexels.com/media/users/3/205763/isolated/lists/9a29b835f3e8d8817e346aab90886421-india-snake-charmer.png)  COBRA.EDU : Suivi des étudiants dans une formation à la carte. 
 L3 Miage, projet de programmation
 
 
@@ -86,11 +86,11 @@ Programmes/logiciels/resources que nous avons utilisé pour développer notre pr
 **Dernière version stable :** Pas encore de release.
 **Dernière version :** Pas encore de release.
 
-Liste des versions : [Cliquer pour afficher](https://github.com/mafia.EDU/tags) 
+Liste des versions : [Cliquer pour afficher](https://github.com/Cobra.EDU/tags) 
 
 ## Auteurs
 
-* **Noureddine BEKHDADI** _alias_ [@staratwars](https://github.com/staratwars)
+* **Noureddine BEKHDADI** _alias_ [@KinggCobra](https://github.com/KinggCobra)
 * **Gaetan SCOPEL** _alias_ [@Jeaneyamarre](https://github.com/Jeaneyamarre)
 
 
