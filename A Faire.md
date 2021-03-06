@@ -37,4 +37,6 @@ les taches critique ou non critique
  -  voir où ils en sont de leur parcours (semestre et UE suivi)
 -  saisir les enseignement validés.
 
+Enseignements ont des prérequis
+
 NB : nomF = nom de la mention
