@@ -2,10 +2,14 @@
 # Mafia.EDU : Classe et JFrame Form :
 
 - Login : connexion utilisateur
+- NouveauUser : inscription utilisateur
 - Cours : ajouter cours selon Nom, Durée, ECTS
 - Enregistrement : enregistrer un étudiant
-- InscrCours : inscrire un étudiant à une UE
-- AfficheNote : Affiche les notes de l'étudiant&
+- InscrFor : inscrire un étudiant à une formation
+- InscrUe : inscrire un étudiant à une UE à la carte
+- CreerFormation : Creer une formation.
+
+- AfficheNote : Affiche les notes de l'étudiant
 
 # Classe unique :
 
