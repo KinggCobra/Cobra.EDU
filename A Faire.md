@@ -1,6 +1,21 @@
 
 # COBRA.EDU : A faire 
 
+
+- Ajouter les formations : 1 formation comprend 1 mention & des sous parcours ( mention MIASHS parcours MIAGE) 
+
+- Lier cours (UE) & mention
+
+- Ajouter prérequis et comptabilisation des ECTS
+
+- Ajouter inscription étudiant à un parcours d'une mention (cad une formation) 
+
+- Ajouter suivi de toutes les UE + année de passage
+
+- Ajouter menus unique : selon role
+
+
+
 - formation flexible : plus de notion d'annee (L1;L2;L3) 
 pouvoir dire d'un etudiant semestre manquant avant de
 finir a	nnee (directeur d'études) prérequis, parcours
