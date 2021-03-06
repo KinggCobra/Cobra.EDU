@@ -31,7 +31,7 @@ les taches critique ou non critique
 - Documentation installation COBRA.EDU
 
 
-**Objectifs:**
+# COBRA.EDU : A faire 
 
  - inscrire etudiants aux UE
  -  voir où ils en sont de leur parcours (semestre et UE suivi)
@@ -40,3 +40,8 @@ les taches critique ou non critique
 UE  ont des prérequis
 
 NB : nomF = nom de la mention
+
+**Noureddine:**
+
+- Bouton UE : tableau dynamique edition/ajout UE,
+- Bouton etudiant : 2 tableau croisé?
