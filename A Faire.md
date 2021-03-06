@@ -33,10 +33,10 @@ les taches critique ou non critique
 
 **Objectifs:**
 
- - inscrire etudiants aux enseignements
+ - inscrire etudiants aux UE
  -  voir où ils en sont de leur parcours (semestre et UE suivi)
--  saisir les enseignement validés.
+-  saisir les UE validés.
 
-Enseignements ont des prérequis
+UE  ont des prérequis
 
 NB : nomF = nom de la mention
