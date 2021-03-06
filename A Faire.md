@@ -31,7 +31,8 @@ les taches critique ou non critique
 - Documentation installation COBRA.EDU
 
 
-OBJECTIFS:
+**Objectifs:**
+
  - inscrire etudiants aux enseignements
  -  voir où ils en sont de leur parcours (semestre et UE suivi)
 -  saisir les enseignement validés.
