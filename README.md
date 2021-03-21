@@ -68,6 +68,9 @@ Pouvoir filtrer par mention &parcours, voir les UE d’ouverture.
 - Ouvrir Apache & MySql
 - Se rendre sur PHPMyAdmin pour accéder à la BD
 - Ouvrir le .jar
+- Lancer Netbeans
+- Ajouter les librairies jcalendar, jfreechart, mysqlconnector
+- Lancer le projet depuis Netbeans
 
 
 ## Fabriqué avec
@@ -79,6 +82,98 @@ Programmes/logiciels/resources que nous avons utilisé pour développer notre pr
 * [GIT & GITHUB](https://github.com/) - Travail collaboratif
 * [PHPMyAdmin](https://www.phpmyadmin.net/) - Base de données
 
+## Détail du fonctionnement 
+### Inscription et Connexion
+
+Lors du lancement nous tombons sur une page d'accueil où il est demandé de se connecter. 
+Pour se connecter, entrer identifiant et mot de passe puis cliquer sur Connexion
+Pour s'inscrire, cliquer sur le bouton s'inscrire et rentrer toutes les données personnelles demandées
+Il s'agit du Nom, prénom, mot de passe, confirmation du mot de passe et type de personne 
+Type de personne correspond à Etudiant, Directeur d'étude, Secrétariat pédagogique ou Bureau des Examens.
+    - Le bouton ajouter permet d'ajouter le nouvel utilisateur dans la base de données
+    - Le bouton annuler fait fermer la fenêtre
+Le bouton Annuler permet de fermer la fenêtre de connexion. 
+
+## Accueil
+
+Une fois que l'on s'est connecté nous arrivons sur la page d'accueil. 
+Sur celle-ci, plusieurs fonctionnalités apparaissent
+Dans un premier temps, il est possible de voir le nombre de cours dans l'application en bas a droite 
+Il est également possible de voir le nombre d'étudiants inscrits dans l'application en bas à gauche.
+Pour se déconnecter, il suffit de cliquer déconnexion en bas de la page d'Accueil. 
+Cela va nous ramener sur la page de connexion/inscription précédemment détaillée. 
+
+    1 Le Menu Etudiant
+    
+Deux options sont disponibles dans le menu étudiant: Ajouter Etudiant et Gerer
+
+La fenêtre ajouter Etudiant permet d'ajouter un étudiant à la base de donnée
+Pour cela, il faut rentrer : - la formation de l'étudiant 
+                             - le prénom de l'étudiant 
+                             - le nom de l'étudiant
+                             - le sexe de l'étudiant 
+                             - la date de naissance de l'étudiant
+                             - le numéro de téléphone de l'étudiant 
+                             - l'adresse de l'étudiant 
+ Remarque: Il est obligatoire de remplir tous les champs. 
+ Une fois que tous les champs sont remplis, il faut cliquer sur "ADD" pour l'ajouter à la base de données.
+ Le bouton "Cancel" permet d'annuler à tout moment l'ajout de l'étudiant. 
+ 
+ La fenêtre Gérer permet de gérer les différents étudiants: 
+ On peut voir les différents étudiants qui sont inscrits
+ Il est également possible de rechercher un étudiant via un mot clé: 
+ Pour cela, il suffit de rentrer le mot clé et les étudiants qui correspondent vont s'afficher. 
+ Il est également possible de sélectionner un étudiant et de modifier les informations de l'étudiant dans le menu de gauche 
+ En cliquant ensuite sur "Edit" les nouvelles informations de l'étudiant vont s'enregistrer. 
+ La suppression d'un étudiant est également possible en sélectionnant un étudiant et en cliquant sur le boutton "remove"
+ Finalement, on peut aussi ajouter un étudiant de la même manière qu'avec la fenêtre "Ajouter Etudiant" 
+ 
+   2 Le Menu UE 
+   
+  En cliquant sur le bouton UE en haut de la fenêtre d'accueil, il est possible de gérer les UE
+  Le bouton Ajouter UE permet d'ajouter une UE dans la base de données. Il faut pour cela mentionner le nom, le nombre d'heures et les ECTS correspondants
+  Ensuite, pour valider il suffit de cliquer sur "ADD"
+  Pour annuler il faut cliquer sur "Cancel"
+  
+  En cliquant sur Manage, on peut voir les différentes UE qui sont inscrites dans la base de données. 
+  Pour en supprimer une, il faut la sélectionner dans les données et cliquer sur "remove"
+  Pour en ajouter une, il faut faire la même procédure que précédemment et cliquer sur "ADD"
+  Pour modifier une UE, il faut sélectionner l'UE que l'on souhaite modifier et modifier ses champs dans la partie de gauche. 
+  Pour enregistrer les changements, cliquer sur Editer. 
+  
+   
+   3 Le Menu Notes 
+   
+   Pour accéder aux notes, il faut cliquer sur le bouton "Note" en haut de la page d'accueil. 
+   Si l'on veut ajouter une note, il faut cliquer sur ajouter note. 
+   Ensuite, il faut remplir les champs "Numéro d'étudiant" "ID Cours" "Note" et "Description"
+   Une fois que tous les champs sont complétés, il suffit de cliquer sur le bouton "ADD"
+   Si on veut annuler, il faut cliquer sur "Cancel".
+   
+   Maintenant, si on veut modifier une note ou des informations sur celle-ci: 
+   Il faut cliquer sur "Editer/Supprimer"
+   Dans cette fenêtre on peut ajouter une note de la même manière que précédemment. 
+   On peut également modifier les notes en sélectionnant la note puis en modifiant les données dans les champs sur la gauche.
+   Il faut ensuite cliquer sur "Modifier"
+   Finalement, on peut également supprimer une note en sélectionnant la note et en cliquant sur le bouton "Supprimer". 
+   
+   Pour finir, on peut juste afficher les notes en cliquant sur "Voir Notes". Toutes les notes seront alors visibles 
+   
+   
+   
+   4 Le Menu CSV
+   
+  Pour accèder à ce menu, il suffit de cliquer sur le bouton "CSV" puis "Importation" en haut de la page d'accueil
+  Il faut ensuite sélectionner quel type de données on veut importer : - formation 
+                                                                        - étudiant 
+                                                                        - Utilisateur 
+                                                                        - UE 
+                                                                        - Liste d'inscrits
+   Pour cela il suffit de cliquer sur le bouton approprié. 
+   Il faut ensuite charger un fichier .csv depuis son ordinateur, les données contenues seront insérées dans la base de données. 
+    
+    
+                    
 
 
 ## Versions
