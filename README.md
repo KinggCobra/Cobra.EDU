@@ -103,7 +103,7 @@ Il est également possible de voir le nombre d'étudiants inscrits dans l'applic
 Pour se déconnecter, il suffit de cliquer déconnexion en bas de la page d'Accueil. 
 Cela va nous ramener sur la page de connexion/inscription précédemment détaillée. 
 
-    1 Le Menu Etudiant
+    1 Le Menu Etudiant 
     
 Deux options sont disponibles dans le menu étudiant: Ajouter Etudiant et Gerer
 
